@@ -1,2 +1,6 @@
 Hello, my name is shaktimayee sahu.
 I am a B.Tech student interested in AI & ML.
+Skills:
+- Python
+- Machine Learning
+- Web Development
